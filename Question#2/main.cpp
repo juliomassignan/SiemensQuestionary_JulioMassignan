@@ -7,14 +7,6 @@ Date: 12th May 2021
 
 Code and solution for question #2
 
-Requirements:
-    For each multiple of 3, print "Foo" instead of the
-    number.
-    For each multiple of 5, print "Baa" instead of the
-    number.
-    For multiple numbers simultaneously of 3 and 5,
-    print "FooBaa", instead of the number.
-
 *******************************************************************************/
 #include <iostream>
 using namespace std;
